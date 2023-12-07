@@ -1,4 +1,5 @@
 # CPSC_483_Assignment_4
 
-In this assignment, we have to find the optimal amount of layers and nodes for the neural network that leads to the highest accuracy/lowest R2 (error) score.
+In this assignment, we have to create an optimal linear gradient function which allows us to have the best accuracy. 
+We also had to make sure that our functions had a high accuracy without overfitting.
   
